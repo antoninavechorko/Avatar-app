@@ -1,9 +1,8 @@
 # Avatar-app
 
-<b>Link to project</b>: 
+<b>Link to project</b>: https://avatar-app-three.vercel.app
 <br/>
-<b>Stack</b>:
-
+<b>Stack</b>: Next.js (play around SSG and SSR), React, CSS modules
 
 <img width="1440" alt="Screenshot 2023-12-17 at 20 31 24" src="https://github.com/antoninavechorko/Avatar-app/assets/91696706/c76f5fc9-1eca-4e80-83fb-2a6f9618a79d">
 <img width="1437" alt="Screenshot 2023-12-17 at 20 31 43" src="https://github.com/antoninavechorko/Avatar-app/assets/91696706/aa50e151-d510-4180-8092-4007d2aacbca">
